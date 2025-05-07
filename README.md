@@ -20,7 +20,6 @@ A classic **Hangman** word-guessing game implemented entirely in **x86 Assembly*
 |--------------|-----------------|----------------|
 | ![first_page](start.png) | ![level_page](levels.png) | ![game_page](game2.png) |
 
-> 📷 Make sure to place screenshots inside a `/screenshots` folder if you use these references.
 
 ---
 
